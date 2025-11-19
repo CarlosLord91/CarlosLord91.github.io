@@ -4,7 +4,15 @@
 ## Part 1: Key Exchange
 
 My Key:
-My Partner's Key:
+My Partner's Key:MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAuJcivKpHhQk93ZzQ+ZLM
+YvXcfxuJUN4J4q0XqoVx0mmTCmzxXKhb/i4TsvU+DP5MDnBqjqHenr5721nawy+Y
+BbcJahk5I4rOfYS4Kgv5lDTUq4KJg3oug/iNZ71/sUtTc7IWrcvI1HQMpMQEZjPh
+uM4kttF65l07RuvzWA30hsgJ+qUHXpekv8wrysC/A532QL2NKnOB/8UXfDTY1BJt
+eAWZOv+oKqN/RznR+UVjScqEAdRVvK+cTn6qPsj3PMoCslEibBNLsOgEH31QeNkI
+3VjBm6lcbrx5FkkpGkhVmlmOFb6qkZ/LMPD2U03OOC/T+sAQj2NMqVIoECncQYJb
+Kwpcf1+hhBEoInDPA+m2HPCqJx4R/Jzen/nK9IJTIJCGc2THXaWHxZFkLN3CGhtB
+M3wDfvekBUmD8PIcDAS5VgMVLZa2RG7HRngqn9SHyt8mhITYzWkOapyQZ1T2qxB+
+izUjinzGHE7A0HZcXOi4cRQX1zeCGCUu0cNcaAT4vEzxAgMBAAE=
 
 Our initial shared key:
 
