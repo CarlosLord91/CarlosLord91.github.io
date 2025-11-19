@@ -18,10 +18,10 @@ and the messages that you received.
 
 | Encoded Message | Decoded Message | Key |
 | --------------- | --------------- | --- |
-|                 |                 |     |
-|                 |                 |     |
-|                 |                 |     |
-|                 |                 |     |
+|Qeb ulola        | The world       |3 Right|
+| Rpih pgr qriirg | Cats are better |11 left|
+| Csh cofox       | six seven       |16 right|
+| Delpqyillap     | Ghostbloods     |26 left |
 
 
 ## Part 3: Connection to TCP/IP Model
