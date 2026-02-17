@@ -1,0 +1,75 @@
+<!Doctype html>
+<html lang="en">
+	<Head>
+		<title>heart</title>
+	<style>
+	canvas{
+	border:black 1px solid;
+	}
+	</style>
+	</head>
+	<body>
+		<h1>This is a canvas</H1>
+		<canvas id="canvas" width ="800" Height="800">
+	 </canvas>
+	<script>
+	const canvas= document.getElementById("canvas");
+	const ctx = canvas.getContext("2d");
+	
+	ctx.fillStyle="Lemonchiffon";
+	ctx.fillRect(0,0,800,800)
+	ctx.beginPath();
+	ctx.fillStyle="DeepSkyBlue";
+	ctx.arc(400,400,400,0,2*Math.PI);
+	ctx.fill();
+	ctx.beginPath();
+	ctx.fillStyle="yellow"
+	ctx.arc(200,50,100,0,2*Math.PI);
+	ctx.fill();
+	ctx.beginPath();
+	ctx.fillStyle="white";
+	ctx.arc(570,50,30,0,2*Math.PI);
+	ctx.arc(535,50,30,0,2*Math.PI);    
+	ctx.fill();
+	ctx.fillStyle="Blue";
+	ctx.fillRect(250,400,400,500);
+	ctx.fillStyle="blue";
+	ctx.fillRect(150,385,100,100)
+	ctx.fillStyle="blue";
+	ctx.fillRect(640,385,100,100);
+	ctx.fillStyle="bisque";
+	ctx.fillRect(150,450,100,400)
+	ctx.fillStyle="bisque";
+	ctx.fillRect(640,450,100,400)
+	ctx.fillRect(375,300,100,100)
+	ctx.beginPath();
+	ctx.fillStyle="bisque";
+	ctx.arc(425,225,125,0,2*Math.PI);
+	ctx.fill();
+	ctx.beginPath();
+	ctx.arc(370,225,20,0,2*Math.PI);
+	ctx.arc(460,225,20,0,2*Math.PI);         
+	ctx.fillStyle="white";
+	ctx.fill();
+	ctx.beginPath();
+	ctx.fillStyle="black";
+	ctx.arc(370,225,10,0,2*Math.PI);    
+	ctx.arc(460,225,10,0,2*Math.PI);
+	ctx.fill();
+	ctx.beginPath();    
+	ctx.fillStyle="Black"; 
+	ctx.arc(425,200,150,Math.PI,Math.PI*2);
+	ctx.fill();
+	ctx.fillRect(275,200,50,50)
+	ctx.fillRect(525,200,50,50)
+	ctx.fill();
+	ctx.beginPath();
+	ctx.fillStyle="DarkSalmon";
+	ctx.arc(420,280,40,0,Math.PI);
+	ctx.fill();
+	ctx.fill();
+	ctx.fill();
+	ctx.fill();
+	</script>
+	</body>
+	</html> 
