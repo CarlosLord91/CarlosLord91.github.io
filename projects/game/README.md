@@ -9,14 +9,14 @@ very intresting anime hoodie.
 
 ```mermaid
 graph TD;
-    UPS(((UPS)))-->Package room;
-    Package room-->Garage;
+    UPS(((UPS)))-->packageRoom;
+    packageRoom-->Garage;
     garage-->highway;
-    Garage-->Neighboor hood;
-    garage-->Outside;
-    Outside-->Portable;
-    Portable-->rm511;
-    Portable-->Bathroom;
+    garage-->neighboorhood;
+    garage-->outside;
+    outside-->portable;
+    portable-->rm511;
+    portable-->bathroom;
 ```
 
 The player starts on the bus, and then is directed into the Commons. T
