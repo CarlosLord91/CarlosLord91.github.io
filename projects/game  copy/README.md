@@ -1,19 +1,20 @@
-# Henry needs his sweater
+# Chris Needs Coffee
 
 ## Setting
 
-This game takes place in Arlington. Where you are ups driver with a mission of delivering Henry his
-very intresting anime hoodie.
+This game takes place at the Arlington Career Center. I tried to f
+faithfully recreate it, with the exception of moving the 
+library to the first floor.
 
 ## Map
 
 ```mermaid
 graph TD;
-    UPS(((UPS)))-->Package room;
-    Package room-->Garage;
-    garage-->highway;
-    Garage-->Neighboor hood;
-    garage-->Outside;
+    bus(((Bus)))-->Commons;
+    Library-->Commons;
+    Box-->Cafeteria;
+    Cafeteria-->Commons;
+    Commons-->Outside;
     Outside-->Portable;
     Portable-->rm511;
     Portable-->Bathroom;
