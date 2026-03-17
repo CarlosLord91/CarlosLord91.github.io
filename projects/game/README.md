@@ -12,11 +12,11 @@ graph TD;
     UPS(((UPS)))-->packageRoom;
     packageRoom-->Garage;
     garage-->highway;
-    garage-->neighboorhood;
-    garage-->outside;
-    outside-->portable;
-    portable-->rm511;
-    portable-->bathroom;
+    highway-->neighboorhood;
+    highway-->city;
+    neighboorhood-->south;
+    neighboorhood-->north;
+    North-->Henryhouse;
 ```
 
 

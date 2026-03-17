@@ -10,8 +10,8 @@ let gameActive = true; //this variable is required.
 //Make one function for each location
 function locationA() {
     clear();
-    print("\nYou are in location A!");
-    print("\nWhere do you want to go next? Say one of these choices:" +
+    print("\nYou are in the ups doing your job!");
+    print("\nyou have to get in your truck to deliver a speacial package:" +
         "\n\tlocationB");
     
     function processInput(input){
